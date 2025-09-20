@@ -5,32 +5,24 @@ public class Program
     public static void Main(string[] args)
     {
         
-        Car myCar = new Car("Toyota", "Corolla", 2022);
-
-      
-        Console.WriteLine("Car Info: " + myCar.GetCarInfo());
+        Wine basicWine = new Wine(15.99m);
+        Wine vintageWine = new Wine(45.50m, 2015);
 
         
-        Console.WriteLine("Car Make: " + myCar.Make);
+        Console.WriteLine("Basic Wine: Price = $" + basicWine.Price);
+        Console.WriteLine("Vintage Wine: Price = $" + vintageWine.Price + ", Year = " + vintageWine.Year);
     }
 }
 
-
-public class Car
+public class Wine
 {
-    public string Make;
-    public string Model;
+    public decimal Price;
     public int Year;
 
-    public Car(string make, string model, int year)
-    {
-        Make = make;
-        Model = model;
-        Year = year;
-    }
+    
+    public Wine(decimal price) => Price = price;
 
-    public string GetCarInfo()
-    {
-        return $"{Year} {Make} {Model}";
-    }
+  
+    public Wine(decimal price, int year) : this(price) => Year = year;
 }
+
