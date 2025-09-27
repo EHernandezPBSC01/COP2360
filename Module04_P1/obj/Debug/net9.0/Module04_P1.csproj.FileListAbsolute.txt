@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\bin\Debug\net9.0\Module04_P1.exe
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\bin\Debug\net9.0\Module04_P1.deps.json
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\bin\Debug\net9.0\Module04_P1.runtimeconfig.json
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\bin\Debug\net9.0\Module04_P1.dll
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\bin\Debug\net9.0\Module04_P1.pdb
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.sourcelink.json
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.dll
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\refint\Module04_P1.dll
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.pdb
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\Module04_P1.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documentos\GitHub\COP2360\Module04_P1\obj\Debug\net9.0\ref\Module04_P1.dll
